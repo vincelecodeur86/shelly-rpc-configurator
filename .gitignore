@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sorties de construction (setup.exe : à publier comme « release » GitHub, pas dans git)
+build/
+dist/
+*.spec
+
+# Divers
+.claude/
+*.log

@@ -1,0 +1,4 @@
+# Outils de construction du setup.exe (inutiles pour exécuter l'utilitaire depuis les sources).
+# PyInstaller 5.13.2 : dernière branche dont l'exécutable produit fonctionne de façon éprouvée sous Windows 7,
+# compatible Python 3.8.
+pyinstaller==5.13.2
